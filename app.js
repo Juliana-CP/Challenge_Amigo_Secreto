@@ -12,7 +12,20 @@ function adicionarAmigo() {
         document.querySelector("input").value = "" ;
         console.log(listaDeNomes) ;
 
+        atualizarListaDeAmigos() ;
+
     }
     
 }
 
+function atualizarListaDeAmigos() {
+    const lista = document.getElementById("listaAmigos") ;
+    lista.innerHTML = "" ;
+
+    listaDeNomes.forEach(nome => {
+        let li = document.createElement("li") ;
+        li.textContent = nome ;
+        lista.appendChild(li) ;
+    }) ;
+
+}
