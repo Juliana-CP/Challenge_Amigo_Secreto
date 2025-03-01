@@ -19,7 +19,7 @@ O Desafio Amigo Secreto é uma aplicação que permite fazer um sorteio de um am
 
 :heavy_check_mark: **Adicionar nome de amigos**: Cria uma lista para adicionar o nome dos amigos que irão participar do sorteio do amigo secreto.
 
-:heavy_check_mark: **Sortear amigo secreto**: Sorteia entre os nomes de amigos adicionados na lista o nome do amigo secreto de forma aleatória.
+:heavy_check_mark: **Sortear amigo secreto**: Sorteia, de forma aleatória, o nome do amigo secreto entre os amigos adicionados à lista.
 
 ## Layout
 ![tela de sorteio](assets/site_amigo_secreto.png)
@@ -29,4 +29,10 @@ O Desafio Amigo Secreto é uma aplicação que permite fazer um sorteio de um am
 
 ## Acesso ao projeto
 
-Vocẽ pode acessar o projeto clicando [aqui](https://challenge-amigo-secreto-six-indol.vercel.app/).
+Você pode acessar o projeto clicando [aqui](https://challenge-amigo-secreto-six-indol.vercel.app/).
+
+## Tecnologias utilizadas
+
+- ''JavaScript''
+- ''HTML''
+- ''CSS''
