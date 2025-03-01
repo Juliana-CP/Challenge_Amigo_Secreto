@@ -17,8 +17,9 @@ O Desafio Amigo Secreto é uma aplicação que permite fazer um sorteio de um am
 
 ## 📱Funcionalidades do projeto
 
-:heavy_check_mark: Adicionar nome de amigos: Cria uma lista para adicionar o nome dos amigos que irão participar do sorteio do amigo secreto.
-:heavy_check_mark: Sortear amigo secreto: Sorteia entre os nomes de amigos adicionados na lista o nome do amigo secreto de forma aleatória.
+:heavy_check_mark: 'Adicionar nome de amigos': Cria uma lista para adicionar o nome dos amigos que irão participar do sorteio do amigo secreto.
+
+:heavy_check_mark: 'Sortear amigo secreto': Sorteia entre os nomes de amigos adicionados na lista o nome do amigo secreto de forma aleatória.
 
 ## Layout
 ![tela de sorteio](assets/site_amigo_secreto.png)
