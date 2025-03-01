@@ -3,15 +3,14 @@
 let amigos = [] ;
 function adicionarAmigo() {
     let nome = document.querySelector("input").value ;
-    console.log(nome) ;
+
 
     if(nome.trim() == "") {
         alert("Por favor, insira um nome.")
     } else {
         amigos.push(nome) ;
         document.querySelector("input").value = "" ;
-        console.log(amigos) ;
-
+        document.querySelector("input").focus(); 
         atualizarListaDeAmigos() ;
         
     }
@@ -40,6 +39,9 @@ function sortearAmigo() {
     const nomeSorteado = amigos[indiceAleatorio];
 
     document.getElementById("resultado").textContent = `O amigo sorteado é: ${nomeSorteado}`;
+
+    let limparLista = document.getElementById("listaAmigos") ;
+    limparLista.innerHTML = "" ;
 
     
 }
