@@ -23,7 +23,7 @@ O Desafio Amigo Secreto é uma aplicação que permite fazer um sorteio de um am
 ## Layout
 ![tela de sorteio](assets/site_amigo_secreto.png)
 
-## Demonstração
+## 🎞📽Demonstração
 
 https://github.com/user-attachments/assets/a3d4421d-4dc1-443b-b3ac-739f6a4f82bd
 
