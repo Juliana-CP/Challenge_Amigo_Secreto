@@ -12,7 +12,6 @@ O Desafio Amigo Secreto é uma aplicação que permite fazer um sorteio de um am
 - <a href="#demonstração">Demonstração<a/>
 - <a href="#acesso">Acesso ao projeto<a/>
 - <a href="#tecnologias">Tecnologias utilizadas<a/>
-- <a href="#contribuidoras">Pessoas contribuidoras<a/>
 - <a href="#desenvolvedor">Pessoas desenvolvedoras do projeto<a/>
 
 ## 📱Funcionalidades do projeto
@@ -27,12 +26,18 @@ O Desafio Amigo Secreto é uma aplicação que permite fazer um sorteio de um am
 ## Demonstração
 ![](assets/video_amigo_secreto.mp4)
 
-## Acesso ao projeto
+## 🎮Acesso ao projeto
 
 Você pode acessar o projeto clicando [aqui](https://challenge-amigo-secreto-six-indol.vercel.app/).
 
 ## Tecnologias utilizadas
 
-- ''JavaScript''
-- ''HTML''
-- ''CSS''
+- ``JavaScript``
+- ``HTML``
+- ``CSS``
+
+## Pessoas desenvolvedoras do projeto
+
+| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/181144451?v=4" width=115><br><sub>Juliana Costa Pereira</sub>](https://github.com/Juliana-CP) | 
+| :---: | :---: | :---: |
+
