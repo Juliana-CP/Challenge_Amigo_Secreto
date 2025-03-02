@@ -38,6 +38,6 @@ Você pode acessar o projeto clicando [aqui](https://challenge-amigo-secreto-six
 
 ## Pessoas desenvolvedoras do projeto
 
-| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/181144451?v=4" width=115><br><sub>Juliana Costa Pereira</sub>](https://github.com/Juliana-CP) | 
-| :---: | :---: | :---: |
+| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/181144451?v=4" width=115><br><sub>Juliana Costa Pereira</sub>](https://github.com/Juliana-CP) 
+
 
